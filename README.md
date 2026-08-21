@@ -13,7 +13,7 @@
 - <b>Deployment, Networking, Troubleshooting</b>
 
 - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/michelleadedayo7-gif/Create-RG-Deploy-VM-RDP-to-VM/tree/main)
-- [Creating and Managing Local Users]()
+- [Creating and Managing Local Users](https://github.com/michelleadedayo7-gif/Creating-and-Managing-Local-Users/tree/main)
 - [Troubleshooting Network Connectivity]()
 - [Managing Windows Updates]()
 - [Software Installation]()
