@@ -16,7 +16,7 @@
 - [Creating and Managing Local Users](https://github.com/michelleadedayo7-gif/Creating-and-Managing-Local-Users/tree/main)
 - [Troubleshooting Network Connectivity](https://github.com/michelleadedayo7-gif/Troubleshooting-Network-Connect/tree/main)
 - [Managing Windows Updates](https://github.com/michelleadedayo7-gif/Managing-Windows-Updates/tree/main)
-- [Software Installation]()
+- [Software Installation](https://github.com/michelleadedayo7-gif/Software-Installation/tree/main)
 - [Print Queue]()
 - [Credential Manager and Cache]()
 - [PowerShell]()
