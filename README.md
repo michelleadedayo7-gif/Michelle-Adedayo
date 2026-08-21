@@ -1,7 +1,7 @@
 <h1>Hi, I'm Micelle, an IT Professional </a>☺</h1>
 
 - <b>Microsoft Azure Entra ID</b>
-- [Creating User's in Entra ID]()
+- [Creating User's in Entra ID](https://github.com/michelleadedayo7-gif/Creating-Users-in-Microsoft-Azure-s-Entra-ID)
 - [Cloud Provisioning - P2 Licensing]()
 - [Role Assignments]()
 - [Group Assignments]()
