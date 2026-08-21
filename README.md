@@ -19,6 +19,6 @@
 - [Software Installation](https://github.com/michelleadedayo7-gif/Software-Installation/tree/main)
 - [Print Queue](https://github.com/michelleadedayo7-gif/Print-Queue/tree/main)
 - [Credential Manager and Cache](https://github.com/michelleadedayo7-gif/Credential-Manager/tree/main)
-- [PowerShell]()
+- [PowerShell](https://github.com/michelleadedayo7-gif/PowerShell-Overview/tree/main)
 - <b>Ticketing System</b>
 - [SpiceWorks Ticketing System]()
