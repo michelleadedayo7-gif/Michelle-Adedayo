@@ -6,8 +6,8 @@
 - [Role Assignments](https://github.com/michelleadedayo7-gif/Role-Assignments/tree/main)
 - [Group Assignments](https://github.com/michelleadedayo7-gif/Group-Assignments/tree/main)
 - [Identity Lifecycle](https://github.com/michelleadedayo7-gif/Identify-Lifecycle/tree/main)
-- [Audit Logs]()
-- [Sign-In Logs]()
+- [Audit Logs](https://github.com/michelleadedayo7-gif/Audit-Logs/tree/main)
+- [Sign-In Logs](https://github.com/michelleadedayo7-gif/Audit-Logs/tree/main)
 - [Authentication]()
   
 - <b>Deployment, Networking, Troubleshooting</b>
