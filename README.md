@@ -3,7 +3,7 @@
 - <b>Microsoft Azure Entra ID</b>
 - [Creating User's in Entra ID](https://github.com/michelleadedayo7-gif/Creating-Users-in-Microsoft-Azure-s-Entra-ID)
 - [Cloud Provisioning - P2 Licensing](https://github.com/michelleadedayo7-gif/Cloud-Provisioning---P2-Licensing/tree/main)
-- [Role Assignments]()
+- [Role Assignments](https://github.com/michelleadedayo7-gif/Role-Assignments/tree/main)
 - [Group Assignments]()
 - [Identity Lifecycle]()
 - [Audit Logs]()
