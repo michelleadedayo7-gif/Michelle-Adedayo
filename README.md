@@ -14,7 +14,7 @@
 
 - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/michelleadedayo7-gif/Create-RG-Deploy-VM-RDP-to-VM/tree/main)
 - [Creating and Managing Local Users](https://github.com/michelleadedayo7-gif/Creating-and-Managing-Local-Users/tree/main)
-- [Troubleshooting Network Connectivity]()
+- [Troubleshooting Network Connectivity](https://github.com/michelleadedayo7-gif/Troubleshooting-Network-Connect/tree/main)
 - [Managing Windows Updates]()
 - [Software Installation]()
 - [Print Queue]()
