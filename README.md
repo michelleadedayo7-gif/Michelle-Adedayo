@@ -12,7 +12,7 @@
   
 - <b>Deployment, Networking, Troubleshooting</b>
 
-- [Creating Resource Group, Deploying Virtual Machine, and RDP]()
+- [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/michelleadedayo7-gif/Create-RG-Deploy-VM-RDP-to-VM/tree/main)
 - [Creating and Managing Local Users]()
 - [Troubleshooting Network Connectivity]()
 - [Managing Windows Updates]()
