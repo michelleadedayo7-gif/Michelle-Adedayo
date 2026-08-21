@@ -8,7 +8,7 @@
 - [Identity Lifecycle](https://github.com/michelleadedayo7-gif/Identify-Lifecycle/tree/main)
 - [Audit Logs](https://github.com/michelleadedayo7-gif/Audit-Logs/tree/main)
 - [Sign-In Logs](https://github.com/michelleadedayo7-gif/Signin-Logs/tree/main)
-- [Authentication]()
+- [Authentication](https://github.com/michelleadedayo7-gif/Authentication/tree/main)
   
 - <b>Deployment, Networking, Troubleshooting</b>
 
